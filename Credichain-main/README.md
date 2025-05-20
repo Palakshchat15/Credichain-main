@@ -1,4 +1,4 @@
-# EduLedger - School Admin System
+# Credichain - School Admin System
 
 EduLedger is a comprehensive school administration system designed to manage various aspects of an educational institution. It allows administrators to manage student records, payments, certifications, wallet, transactions, voting, and NFT achievements, all in one platform. EduLedger uses modern technologies to ensure a sleek and efficient experience for administrators.
 
@@ -23,7 +23,7 @@ EduLedger is a comprehensive school administration system designed to manage var
 
 ## Overview
 
-EduLedger offers a suite of tools that make managing school operations seamless and more efficient. The platform provides a centralized hub for administrators to manage everything from student data and payment processing to certifications and voting systems. It features a modern, responsive UI, integrated with a backend to handle complex functionalities.
+Credichain offers a suite of tools that make managing school operations seamless and more efficient. The platform provides a centralized hub for administrators to manage everything from student data and payment processing to certifications and voting systems. It features a modern, responsive UI, integrated with a backend to handle complex functionalities.
 
 One key aspect of the system is its integration with the **Hedera ecosystem**, which powers the blockchain-based features such as **NFT achievements** and **tokenization**.
 
